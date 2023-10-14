@@ -1,7 +1,7 @@
 {
   "name": "todoapi",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
@@ -18,6 +18,6 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "concurrently \"tsc -w\" \"nodemon dist/app.js\""
+    "start": "concurrently \"tsc -w\" \"nodemon dist/js/app.js\""
   }
 }

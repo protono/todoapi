@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_PORT": "4000",
+        "MONGO_USER": "sylvain",
+        "MONGO_PASSWORD": "6KAYN9Tci9",
+        "MONGO_DB": "mongodb"
+    }
+}
